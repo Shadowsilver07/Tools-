@@ -6,4 +6,4 @@
 
 ## Table of Contents
 
-- [#ReadMe](./Resources/ReadMe.html) - read.me helper/syntax/tools
+- [#ReadMe](https://shadowsilver07.github.io/Tools-/Resources/ReadMe.html) - read.me helper/syntax/tools
