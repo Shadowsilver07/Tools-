@@ -6,4 +6,4 @@
 
 ## Table of Contents
 
-- [#ReadMe](./Resources/ReadMe.html)
+- [#ReadMe](./Resources/ReadMe.html) - read.me helper/syntax/tools
